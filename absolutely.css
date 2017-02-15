@@ -14,7 +14,7 @@ p{
 	width : 700px;
 	margin : 100px auto;
 	min-height : 600px;
-	background-image : url(file:///C:/Users/Lucps/Documents/Voltooide%20opdrachten/Handy/bg.png);
+	background-image : url(bg.png);
 	border : 4px solid red;
 	position: relative;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav{
-	background-image: url(file:///C:/Users/Lucps/Documents/Voltooide%20opdrachten/Handy/bar1.png);
+	background-image: url(bar1.png);
 	font-family: Tahoma;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -158,7 +158,7 @@ nav ul {
 }
 
 nav ul:hover {
-	background: url(file:///C:/Users/Lucps/Documents/Voltooide%20opdrachten/Handy/bar2.png);
+	background: url(bar2.png);
 }
 a:visited {
 	color: gray;
